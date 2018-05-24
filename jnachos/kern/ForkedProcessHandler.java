@@ -4,7 +4,7 @@ import com.sun.security.auth.module.JndiLoginModule;
 import jnachos.machine.Machine;
 
 /**
- * Created by mrunal on 21/9/17.
+ * Created by aishwarya on 21/9/17.
  */
 public class ForkedProcessHandler implements VoidFunctionPtr {
     @Override
